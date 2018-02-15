@@ -58,7 +58,7 @@ Diretores do BB
 
 * Utiliza como linguagem de programação o JAVA.
 
- <h1>Protótipos de tela<\h1>
+ <h1>Protótipos de tela</h1>
 
  <h2>Protótipos para funcionalidade 1</h2>
 
