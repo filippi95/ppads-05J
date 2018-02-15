@@ -1,22 +1,24 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto Gestão de Informação
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, solicitado pelo cliente *"NOME DO CLIENTE"*, 
+Este documento apresenta uma solução de software para o projeto Gestão de Informação, solicitado pelo cliente Banco do Brasil, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
 esperadas do sistema.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+• Ideação: captar ideias para fomentar o processo de inovação da Ditec –
+Banco do Brasil por meio de lançamento de campanhas e desafios junto à
+comunidade de inovação.
+• Colaboração: realizar interações junto às comunidades de inovação por
+meio de fóruns de discussão, relacionamentos, blogs, wikis e outras
+atividades colaborativas.
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
+* Descrição do problema: Pouca eficiência nos projetos de inovação
+* Quem é afetado pelo problema: Todos os colaboradores envolvidos nos projetos, gerentes, supervisores, e staff.
+* Impacto no negócio: Projetos inovadores travados, com baixo desempenho e baixa aplicabilidade real.
+* Benefícios de uma boa solução: Uma melhoria no desempenho, menos recursos gastos para realizar um projeto inovador do inicio ao fim.
 
 ## Definições, abreviações e outros termos do domínio do problema
 
@@ -48,16 +50,12 @@ esperadas do sistema.
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Centralização das ideias inovadoras e projetos em um unico sistema que auxilia o desenvolvimento e a implantação do mesmo.
+
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* Utiliza como linguagem de programação o JAVA.
 
 ## Protótipos de tela
 
