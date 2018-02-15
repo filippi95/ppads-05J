@@ -1,10 +1,10 @@
- <h1> Documento de Visão do Projeto Gestão de Informação</h1>
+ <h1> Documento de Visão do Projeto Gestão de Informação </h1>
 
 Este documento apresenta uma solução de software para o projeto Gestão de Informação, solicitado pelo cliente Banco do Brasil, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
 esperadas do sistema.
 
-<h1> Objetivos<\h1>
+<h1> Objetivos <\h1>
 
 • Ideação: captar ideias para fomentar o processo de inovação do
 Banco do Brasil por meio de lançamento de campanhas e desafios junto à
