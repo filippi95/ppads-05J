@@ -31,24 +31,23 @@ atividades colaborativas.
 
 <h1>Integração com outros sistemas</h1>
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* SAP
+* SQL
+
  
 <h1>Interessados </h1>
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+Sócios do BB
+Diretores do BB
+
+
 
  <h1>Usuários</h1>
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+   Gerentes 
+   Supervisores
+   Staff
+
 
  <h1>Funcionalidades do produto</h1>
 
